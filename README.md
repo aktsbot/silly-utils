@@ -3,7 +3,7 @@
 This is a silly collection of utility functions to use in
 JS projects.
 
-⚠ Do not use this in your serious projects!
+**Warning💣** : Do not use this in your projects!
 
 I'm mainly doing this project to learn
 
@@ -29,4 +29,4 @@ Refer [example.js](./example.js) for a more detailed look.
 
 ## License
 
-[WTFPL](http://www.wtfpl.net/) - It is what it means 💣
+[WTFPL](http://www.wtfpl.net/)
