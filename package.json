@@ -1,0 +1,11 @@
+{
+  "name": "silly-utils",
+  "version": "0.0.1",
+  "description": "A bunch of silly utility functions for learning opensource and npm :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akts <box.ashishk@gmail.com>",
+  "license": "WTFPL"
+}
