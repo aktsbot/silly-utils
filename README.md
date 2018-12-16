@@ -14,7 +14,7 @@ I'm mainly doing this project to learn
 ## Usage
 
 ```javascript
-const silly = require('silly');
+const silly = require('silly-utils');
 
 const array = [1, 2, 3];
 console.log(silly.isNullOrEmpty(array)); // false
