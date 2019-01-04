@@ -1,4 +1,4 @@
-# Silly Utils 🗞
+# Silly Utils
 
 This is a silly collection of utility functions to use in JS projects.
 

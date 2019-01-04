@@ -1,7 +1,7 @@
 # Contributing
 
-Discuss in the _Issues_ tab regarding the changes/additions you want first,
-before working on a PR.
+Discuss in the **Issues** tab regarding the changes/additions you want first,
+before working on a PR 🛑
 
 ## Set up instructions
 
@@ -17,4 +17,4 @@ your machine.
    your own test files. Take a gander at the test folder.
 7. Push your changes to your fork with `git push`
 8. Create a pull request.
-9. Merge baby!
+9. Merge baby! 🙌
