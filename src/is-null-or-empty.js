@@ -4,7 +4,7 @@
  * @return {boolean} - true when input is null, undefined or empty
  */
 let isNullOrEmpty = input => {
-  return input === undefined || input === null || input === '';
-};
+  return input === undefined || input === null || input === ''
+}
 
-module.exports = isNullOrEmpty;
+module.exports = isNullOrEmpty
