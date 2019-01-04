@@ -4,8 +4,11 @@
   "description": "A bunch of silly utility functions for learning opensource and npm :)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "author": "akts <box.ashishk@gmail.com>",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "devDependencies": {
+    "ava": "^1.0.1"
+  }
 }
