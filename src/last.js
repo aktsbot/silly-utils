@@ -3,9 +3,9 @@
  * @param {Array} array
  * @return {*} - last element in array
  */
-let last = array => {
-  let lastElement = array[array.length - 1]
-  return lastElement
-}
+const last = array => {
+  const lastElement = array[array.length - 1];
+  return lastElement;
+};
 
-module.exports = last
+module.exports = last;
